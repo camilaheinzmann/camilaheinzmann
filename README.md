@@ -1,16 +1,12 @@
-### Hi there 👋
+<img src="https://github.com/camilaheinzmann/camilaheinzmann/blob/master/img/banner-ch.png" alt="Camila Heinzmann" width="100%">
 
-<!--
-**camilaheinzmann/camilaheinzmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, 🙋‍♀️
+Sou uma desenvolvedora Front-end :octocat:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <br/> 👩‍🎓 &nbsp; Bacharela em Ciência da Computação
+ <br/> :computer: &nbsp; HTML | CSS | Javascript | Bootstrap
+ <br/> :blue_book: &nbsp; Interesse em ReactJS e NodeJS
+ <br/> 💜  &nbsp; Apaixonada por tecnologia, :camera:, :cat: e :dog:
+ <br/> :email: &nbsp; Contato: [![Linkedin Badge](https://img.shields.io/badge/-CamilaHeinzmann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilaheinzmann)](https://www.linkedin.com/in/camilaheinzmann/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-camilapostai.ch@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camilapostai.ch@gmail.com)](mailto:camilapostai.ch@gmail.com)
