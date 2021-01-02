@@ -5,7 +5,7 @@ Sou uma desenvolvedora Front-end :octocat:
 
  <br/> 👩‍🎓 &nbsp; Bacharela em Ciência da Computação
  <br/> :computer: &nbsp; HTML | CSS | Javascript | Bootstrap
- <br/> :blue_book: &nbsp; Interesse em ReactJS e NodeJS
+ <br/> :blue_book: &nbsp; Estudando NextJS
  <br/> 💜  &nbsp; Apaixonada por tecnologia, :camera:, :cat: e :dog:
  <br/> :email: &nbsp; Contato: [![Linkedin Badge](https://img.shields.io/badge/-CamilaHeinzmann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilaheinzmann)](https://www.linkedin.com/in/camilaheinzmann/) 
 | 
