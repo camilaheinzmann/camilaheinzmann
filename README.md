@@ -1,4 +1,4 @@
-<img src="https://github.com/camilaheinzmann/camilaheinzmann/blob/master/img/banner-ch.png" alt="Camila Heinzmann" width="100%">
+<img src="https://github.com/camilaheinzmann/camilaheinzmann/blob/master/img/banner-ch-2021.png" alt="Camila Heinzmann" width="100%">
 
 ## Olá, 🙋‍♀️
 Sou uma desenvolvedora Front-end :octocat:
