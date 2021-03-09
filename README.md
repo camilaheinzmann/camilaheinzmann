@@ -38,6 +38,9 @@
 	<a href="https://pt-br.reactjs.org/">
 		<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=61DAFB&logo=react&logoColor=black"/>
 	</a>
+	<a href="https://nextjs.org/">
+		<img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+	</a>	
 	<a href="https://nodejs.org/">
 		<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 	</a>
