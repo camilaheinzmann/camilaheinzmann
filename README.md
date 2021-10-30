@@ -1,12 +1,10 @@
 
 
-<h1> Olá, eu sou a Camila 🙋🏼‍</h1>
+## Olá, eu sou a Camila 🙋🏼‍
 
 <div align="center">
-  <a href="https://github.com/camilaheinzmann">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilaheinzmann&count_private=true&show_icons=true&theme=buefy" alt="Github headme stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaheinzmann&layout=compact&theme=buefy" alt="Github Most Used Languages" > 
-  </a>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilaheinzmann&count_private=true&show_icons=true&theme=buefy" alt="Github headme stats" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaheinzmann&layout=compact&theme=buefy" alt="Github Most Used Languages" > 
 </div>
 
 <br />
